@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Tom Blog</title><link>https://TomKe123.github.io/blog</link><description>我们都是虫子，但总有人仰望星空</description><copyright>Tom Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://upload-bbs.miyoushe.com/upload/2024/02/01/108449504/faaa640defc3ed559e3e2437b08e0f9c_6821362145244284016.jpg?x-oss-process=image/resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg</url><title>avatar</title><link>https://TomKe123.github.io/blog</link></image><lastBuildDate>Tue, 30 Jul 2024 08:28:10 +0000</lastBuildDate><managingEditor>Tom Blog</managingEditor><ttl>60</ttl><webMaster>Tom Blog</webMaster><item><title>Gmeek博客教程</title><link>https://TomKe123.github.io/blog/post/Gmeek-bo-ke-jiao-cheng.html</link><description>### 0. 准备工作&#13;
-- [x] 一个github账号&#13;
-    - [ ] （部分地区，解决方案参见：[传送门]()）科学上网环境&#13;
-- [x] 一台能上网的电脑&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Tom Blog</title><link>https://TomKe123.github.io/blog</link><description>我们都是虫子，但总有人仰望星空</description><copyright>Tom Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://upload-bbs.miyoushe.com/upload/2024/02/01/108449504/faaa640defc3ed559e3e2437b08e0f9c_6821362145244284016.jpg?x-oss-process=image/resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg</url><title>avatar</title><link>https://TomKe123.github.io/blog</link></image><lastBuildDate>Tue, 30 Jul 2024 08:32:04 +0000</lastBuildDate><managingEditor>Tom Blog</managingEditor><ttl>60</ttl><webMaster>Tom Blog</webMaster><item><title>Gmeek博客教程</title><link>https://TomKe123.github.io/blog/post/Gmeek-bo-ke-jiao-cheng.html</link><description>### 0. 准备工作&#13;
+-  一个github账号&#13;
+    -  （部分地区，解决方案参见：[传送门]()）科学上网环境&#13;
+-  一台能上网的电脑&#13;
 ---&#13;
 ### 1. Demo演示&#13;
 + 官方：[https://blog.meekdai.com](https://blog.meekdai.com)&#13;
