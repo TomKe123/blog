@@ -9,5 +9,5 @@
 + PS:喜欢自己折腾的同学可以直接看官方教程：[https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html)
 ### 2. 创建仓库
 + 通过[模板](https://github.com/new?template_name=Gmeek-template&template_owner=Meekdai)创建仓库
-+ > [!WARNING] 
-+ >**注意：仓库类型 一定要选Public!!! 一定要选Public!!! 一定要选Public!!!**
+> [!IMPORTANT]
+> **注意：仓库类型 一定要选Public!!! 一定要选Public!!! 一定要选Public!!!**
