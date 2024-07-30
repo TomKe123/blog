@@ -2,5 +2,6 @@
     "title":"Tom Blog",
     "subTitle":"我们都是虫子，但总有人仰望星空",
     "avatarUrl":"https://upload-bbs.miyoushe.com/upload/2024/02/01/108449504/faaa640defc3ed559e3e2437b08e0f9c_6821362145244284016.jpg?x-oss-process=image/resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"
 }
